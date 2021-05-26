@@ -13,6 +13,7 @@ Plugin 'VundleVim/Vundle.vim'
 Bundle 'majutsushi/tagbar'
 Bundle 'Gundo'
 Plugin 'scrooloose/syntastic'
+Plugin 'tpope/vim-pathogen'
 
 " File Browsing
 " More settings down.
